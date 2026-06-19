@@ -1,3 +1,11 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=%C3%80lex%20Rodr%C3%ADguez%20Ben%C3%ADtez&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=21alexrodri">
+    <img src="https://komarev.com/ghpvc/?username=21alexrodri&label=Profile%20views&color=00FFFF&style=flat-square" alt="21alexrodri's profile views" />
+  </a>
+</p>
+
 # 💫 About Me:
 
 Hi! I'm Àlex, a Software Developer specialised in AI & Big Data, with a background in Full Stack Web Development and 2+ years of professional experience in IT. 🚀
@@ -31,7 +39,7 @@ Got an interesting AI project or just want to say hi? Feel free to reach out! �
 # 🤖 AI & Machine Learning:
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -46,16 +54,30 @@ Got an interesting AI project or just want to say hi? Feel free to reach out! �
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=21alexrodri&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=21alexrodri&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=21alexrodri&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/21alexrodri">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=21alexrodri&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="21alexrodri's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=21alexrodri&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="21alexrodri's GitHub Streak" width="49%" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=21alexrodri&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=21alexrodri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Àlex Rodríguez Benítez's GitHub Trophies" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=21alexrodri&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/21alexrodri">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=21alexrodri&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=21alexrodri&icon=5&color=6)](https://visitcount.itsvg.in)
