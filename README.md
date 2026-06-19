@@ -1,12 +1,51 @@
 # 💫 About Me:
-ES<br><br>¡Bienvenido! Soy Àlex, un chico de 20 años apasionado por transformar ideas en realidades digitales y enfrentar todo tipo de desafíos que me  permitan  crecer profesionalmente. 🚀<br><br>🎯 Mi objetivo es crear soluciones innovadoras que no solo funcionen bien, sino que tengan un toque diferencial que las haga destacar frente al resto.<br><br>✨ Hasta el momento he tenido el placer de trabajar en las empresas:<br><br>TellMeBye - Una empresa situada en España en donde he podido acabar de afianzar todos los términos aprendidos en la carrera y en donde he podido realizar, usando PHP y JavaScript tareas como: un protector de pantalla para televisores, un sistema para enviar imágenes modificadas de un foro a un marco digital y varios sistemas de gestión de personal entre otras funciones.<br><br>Mercantec - Una empresa situada en Dinamarca en donde he tenido el placer de realizar como responsable de proyecto un gestor web desde cero usando vite+react y PHP en donde se debía realizar una página para poder subir y descargar archivos de impresión 3D.<br><br>¿Tienes un proyecto interesante o simplemente quieres decir hola? ¡No dudes en contactarme! 😊<br><br><br><br>EN<br><br>Hi! I'm Àlex, a 20 years old boy who loves turning ideas into digital realities and taking on challenges that help me grow professionally. 🚀<br><br>🎯 My goal is to create creative solutions that apart from working well, they also have that extra something to make them stand out facing other projects.<br><br>✨ I’ve had the chance to work on:<br><br>TellMeBye – A Spanish company where I could put into practice what I learned during my studies. I worked on tasks using PHP and JavaScript, such as making a TV screensaver, creating a system to send modified forum images to a digital frame, and building different staff management tools.<br><br>Mercantec – A Danish company where I led a project from scratch. I developed a web manager using Vite+React and PHP, creating a platform for uploading and downloading 3D printing files.<br><br>Got an interesting project or just want to say hi? Feel free to reach out! 😊
 
+Hi! I'm Àlex, a Software Developer specialised in AI & Big Data, with a background in Full Stack Web Development and 2+ years of professional experience in IT. 🚀
+
+🎯 I work primarily with Python — Machine Learning, LLMs, NLP and data pipelines — and I'm comfortable across the full development cycle, from model design to production deployment.
+
+✨ Currently, I've built and deployed **Vibe Flying**, an AI-powered flight search engine that goes beyond traditional comparators. The goal was to prove that AI and Big Data can genuinely enhance how users make travel decisions — not just show results, but help them think better.
+
+The system combines:
+- 🗣️ Natural language understanding via a local LLM (Ollama)
+- 📈 A machine learning model that predicts fair flight prices
+- 🗺️ A graph-based destination recommender covering 5,720 cities
+- ⭐ A custom multidimensional scoring system (price, duration, quality, CO₂, flexibility, schedule)
+
+Built on 17 FastAPI microservices, Neo4j and a medallion architecture on PostgreSQL.
+
+👉 Explore it live: [vibe-flying.com](https://vibe-flying.com)
+
+I've also worked on:
+
+**Tellmebye** – Software Development Lead, implementing AI applied to the funeral sector (image restoration, AI-powered image quality enhancement) and internal automation systems.
+
+**Mercantec** (Denmark) – Software Project Lead, building a private 3D file management platform from scratch using React, Vite and Three.js.
+
+Got an interesting AI project or just want to say hi? Feel free to reach out! 😊
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_alexrodri21_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-rodriguez-benitez) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-rodriguez-benitez)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=googlechrome&logoColor=white)](https://alex-rodriguez-benitez-portfolio.vibe-flying.com/)
+
+# 🤖 AI & Machine Learning:
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=21alexrodri&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=21alexrodri&theme=calm_pink&hide_border=false)<br/>
@@ -14,9 +53,6 @@ ES<br><br>¡Bienvenido! Soy Àlex, un chico de 20 años apasionado por transform
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=21alexrodri&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=21alexrodri&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
